@@ -32,4 +32,4 @@ pip install ultralytics opencv-python mss pynput numpy
 - [pynput](https://www.youtube.com/watch?v=sJx_lFtrO3E)
 
 ***
-![MobList](runs\detect\minecraft_detection\labels.jpg)
+![MobList](https://github.com/Azylos/YOLO---Minecraft/blob/main/runs/detect/minecraft_detection/labels.jpg)
